@@ -3,8 +3,9 @@
 
 
 
-![Dark Mode Preview](/images/demo_day_mode.pngg?raw=true)
-![Light Mode Preview](/images/demo_night_mode.png?raw=true)
+![Dark Mode Preview](images/demo_day_mode.png)
+
+![Light Mode Preview](images/demo_night_mode.png)
 
 
 A feature-rich, dual-pane Markdown editor with live preview, theme support, and seamless image handling. Built with PyQt5 for a native desktop experience.
