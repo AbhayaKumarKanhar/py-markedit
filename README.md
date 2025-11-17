@@ -132,4 +132,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [PyQt5](https://www.riverbankcomputing.com/software/pyqt/) - GUI framework
 - [pandoc](https://pandoc.org/) - Document conversion backend
 - [Python Markdown](https://python-markdown.github.io/) - Fallback Markdown processor
-```
