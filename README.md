@@ -1,8 +1,8 @@
 ```markdown
 # 📝 Markdown Editor
 
-![Dark Mode Preview](https://via.placeholder.com/800x400/24292e/ffffff?text=Dark+Mode+Preview)
-![Light Mode Preview](https://via.placeholder.com/800x400/f5f5f5/333333?text=Light+Mode+Preview)
+![Dark Mode Preview](https://github.com/AbhayaKumarKanhar/Markdown-Editor/blob/main/demo_night_mode.png)
+![Light Mode Preview](https://github.com/AbhayaKumarKanhar/Markdown-Editor/blob/main/demo_day_mode.png)
 
 A feature-rich, dual-pane Markdown editor with live preview, theme support, and seamless image handling. Built with PyQt5 for a native desktop experience.
 
